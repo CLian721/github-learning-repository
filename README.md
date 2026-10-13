@@ -199,8 +199,8 @@ Merge
 
 ### Next
 
-- [x] ] Learn Markdown
-- [x] ] Understand commits
+- [x] Learn Markdown
+- [x] Understand commits
 - [ ] Clone this repository to a local computer
 - [ ] Make the first local commit
 - [ ] Push changes to GitHub
