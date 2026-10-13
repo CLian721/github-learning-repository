@@ -300,3 +300,9 @@ touch
 本节最重要的认识：
 
 > Repository 不是“放代码的文件夹”，而是一个带有完整版本历史和 Git 信息的项目。
+
+---
+
+## 11. 后续实践
+
+本节完成后，我已经实际体验了 Repository 从 GitHub Clone 到本地，并通过 `add → commit → push` 将本地修改重新同步到 GitHub 的完整过程。
