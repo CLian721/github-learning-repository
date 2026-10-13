@@ -33,9 +33,9 @@ A hands-on repository for learning **Git**, **GitHub**, and collaborative develo
 
 | Stage | Topic | Status |
 |---|---|---|
-| 01 | Repository | 🟡 Learning |
-| 02 | README & Markdown | ⬜ Not started |
-| 03 | Git & Commit | ⬜ Not started |
+| 01 | Repository | ✅ Completed |
+| 02 | README & Markdown | ✅ Completed |
+| 03 | Git & Commit | ✅ Completed |
 | 04 | Clone / Push / Pull | ⬜ Not started |
 | 05 | Branch & Merge | ⬜ Not started |
 | 06 | Issues | ⬜ Not started |
@@ -199,8 +199,8 @@ Merge
 
 ### Next
 
-- [ ] Learn Markdown
-- [ ] Understand commits
+- [x] ] Learn Markdown
+- [x] ] Understand commits
 - [ ] Clone this repository to a local computer
 - [ ] Make the first local commit
 - [ ] Push changes to GitHub
