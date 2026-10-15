@@ -36,8 +36,8 @@ A hands-on repository for learning **Git**, **GitHub**, and collaborative develo
 | 01 | Repository | ✅ Completed |
 | 02 | README & Markdown | ✅ Completed |
 | 03 | Git & Commit | ✅ Completed |
-| 04 | Clone / Push / Pull | ⬜ Not started |
-| 05 | Branch & Merge | ⬜ Not started |
+| 04 | Clone / Push / Pull | ✅ Completed |
+| 05 | Branch & Merge | ✅ Completed |
 | 06 | Issues | ⬜ Not started |
 | 07 | Pull Requests | ⬜ Not started |
 | 08 | Fork | ⬜ Not started |
